@@ -36,6 +36,10 @@ main {
     padding: 10px;
 }
 
+.container h2 {
+    color: hsl(218, 44%, 22%);
+}
+
 .container p {
     color: hsl(220, 15%, 55%);
 }
